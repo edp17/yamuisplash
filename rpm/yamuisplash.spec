@@ -1,6 +1,6 @@
 Name:		yamuisplash
 Summary:	Simple splash screen for SailfishOS
-Version:	1.0.3
+Version:	1.0.5
 Release:	1
 Url:		https://github.com/sailfishos/yamuisplash
 License:	ASL 2.0
